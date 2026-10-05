@@ -1,0 +1,6 @@
+numpy>=1.22.0
+scipy>=1.8.0
+matplotlib>=3.5.0
+astropy>=5.0.0
+astroquery>=0.4.6
+galpy>=1.8.1
