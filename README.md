@@ -34,6 +34,6 @@ pip install -r requirements.txt
 * **Author:** René Sagal Andrade
 * **Role:** Independent Researcher / System Architect & Astro-aerospace Analyst
 * **Academic Background:** University College London (UCL) Alumnus
-* **Identifier:** [ORCID: 0009-0006-8968-301X](https://orcid.org)
+* **Identifier:** [ORCID: 0009-0003-5574-5384](https://orcid.org)
 
 *The author explicitly acknowledges the computational validation pipelines and algorithmic optimization workflows provided by Google's Smart Mode processors throughout the formulation of this independent open-science software architecture.*
