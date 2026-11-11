@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software simulation engine, please cite it as below."
+authors:
+  - family-names: Sagal Andrade
+    given-names: Rene
+    orcid: https://orcid.org
+title: "3I/ATLAS Galactic Backtracking Framework: High-Precision Kinematics"
+version: 1.0.0
+date-released: 2026-11-11
+url: https://github.com
