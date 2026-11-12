@@ -50,7 +50,6 @@ python 3iatlas_backtracking.py
 
 ---
 
-## 📄 Academic Citation
 
 ## 📄 Academic Citation
 
