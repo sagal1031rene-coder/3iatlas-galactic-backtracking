@@ -52,18 +52,23 @@ python 3iatlas_backtracking.py
 
 ## 📄 Academic Citation
 
-If you use this software simulation framework or its cinematic tracking solutions in your research, please cite the corresponding paper submitted to **The Astronomical Journal (AJ)**:
+## 📄 Academic Citation
+
+If you use this software simulation framework in your research, please cite it using the Zenodo DOI:
 
 ```bibtex
-@article{SagalAndrade2026Backtracking,
-  author    = {Sagal Andrade, Rene},
-  title     = {3I/ATLAS Galactic Backtracking Framework: High-Precision Kinematics and Progenitor System Search via Gaia DR3},
-  journal   = {The Astronomical Journal},
-  year      = {2026},
-  note      = {Submitted},
-  url       = {https://orcid.org}
+@software{SagalAndrade2026BacktrackingCode,
+  author       = {Sagal Andrade, Rene},
+  title        = {{3I/ATLAS Galactic Backtracking Framework: High-Precision Kinematics}},
+  month        = nov,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.2},
+  doi          = {10.5281/zenodo.24166495},
+  url          = {https://doi.org}
 }
 ```
+
 
 ---
 
