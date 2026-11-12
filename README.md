@@ -2,7 +2,8 @@
 
 [![Python 3.10+](https://shields.io)](https://python.org)
 [![ORCID iD](https://shields.io)](https://orcid.org)
-[![Zenodo DOI](https://shields.io)](https://zenodo.org)
+[![DOI](https://zenodo.org)](https://doi.org)
+
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 An open-science, high-precision numerical backward-integration framework designed to evaluate the Galactic orbital kinematics and trace the stellar progenitor system of the third interstellar object, **3I/ATLAS**. 
